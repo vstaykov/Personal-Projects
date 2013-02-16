@@ -1,0 +1,12 @@
+E:\Engineering\First term\C# I\TestPreparation\HW_TestPreparation\TelerikAcademyCSharp1_PracticalExam\BitBall\bin\Debug\BitBall.exe.config
+E:\Engineering\First term\C# I\TestPreparation\HW_TestPreparation\TelerikAcademyCSharp1_PracticalExam\BitBall\bin\Debug\BitBall.exe
+E:\Engineering\First term\C# I\TestPreparation\HW_TestPreparation\TelerikAcademyCSharp1_PracticalExam\BitBall\bin\Debug\BitBall.pdb
+E:\Engineering\First term\C# I\TestPreparation\HW_TestPreparation\TelerikAcademyCSharp1_PracticalExam\BitBall\obj\Debug\BitBall.csprojResolveAssemblyReference.cache
+E:\Engineering\First term\C# I\TestPreparation\HW_TestPreparation\TelerikAcademyCSharp1_PracticalExam\BitBall\obj\Debug\BitBall.exe
+E:\Engineering\First term\C# I\TestPreparation\HW_TestPreparation\TelerikAcademyCSharp1_PracticalExam\BitBall\obj\Debug\BitBall.pdb
+E:\Engineering\Repos\Git\Personal-Projects\Telerik-CSharp-I-Exam\BitBall\bin\Debug\BitBall.exe.config
+E:\Engineering\Repos\Git\Personal-Projects\Telerik-CSharp-I-Exam\BitBall\obj\Debug\BitBall.exe
+E:\Engineering\Repos\Git\Personal-Projects\Telerik-CSharp-I-Exam\BitBall\obj\Debug\BitBall.pdb
+E:\Engineering\Repos\Git\Personal-Projects\Telerik-CSharp-I-Exam\BitBall\bin\Debug\BitBall.exe
+E:\Engineering\Repos\Git\Personal-Projects\Telerik-CSharp-I-Exam\BitBall\bin\Debug\BitBall.pdb
+E:\Engineering\Repos\Git\Personal-Projects\Telerik-CSharp-I-Exam\BitBall\obj\Debug\BitBall.csprojResolveAssemblyReference.cache

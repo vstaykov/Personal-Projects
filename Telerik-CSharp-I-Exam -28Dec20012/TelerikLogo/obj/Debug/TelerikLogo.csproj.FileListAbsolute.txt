@@ -1,0 +1,10 @@
+E:\Engineering\First term\C# I\TestPreparation\HW_TestPreparation\TelerikAcademyCSharp1_PracticalExam\TelerikLogo\bin\Debug\TelerikLogo.exe.config
+E:\Engineering\First term\C# I\TestPreparation\HW_TestPreparation\TelerikAcademyCSharp1_PracticalExam\TelerikLogo\bin\Debug\TelerikLogo.exe
+E:\Engineering\First term\C# I\TestPreparation\HW_TestPreparation\TelerikAcademyCSharp1_PracticalExam\TelerikLogo\bin\Debug\TelerikLogo.pdb
+E:\Engineering\First term\C# I\TestPreparation\HW_TestPreparation\TelerikAcademyCSharp1_PracticalExam\TelerikLogo\obj\Debug\TelerikLogo.exe
+E:\Engineering\First term\C# I\TestPreparation\HW_TestPreparation\TelerikAcademyCSharp1_PracticalExam\TelerikLogo\obj\Debug\TelerikLogo.pdb
+E:\Engineering\Repos\Git\Personal-Projects\Telerik-CSharp-I-Exam\TelerikLogo\bin\Debug\TelerikLogo.exe.config
+E:\Engineering\Repos\Git\Personal-Projects\Telerik-CSharp-I-Exam\TelerikLogo\obj\Debug\TelerikLogo.exe
+E:\Engineering\Repos\Git\Personal-Projects\Telerik-CSharp-I-Exam\TelerikLogo\obj\Debug\TelerikLogo.pdb
+E:\Engineering\Repos\Git\Personal-Projects\Telerik-CSharp-I-Exam\TelerikLogo\bin\Debug\TelerikLogo.exe
+E:\Engineering\Repos\Git\Personal-Projects\Telerik-CSharp-I-Exam\TelerikLogo\bin\Debug\TelerikLogo.pdb

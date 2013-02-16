@@ -1,0 +1,9 @@
+E:\Engineering\First term\C# I\TestPreparation\HW_TestPreparation\TelerikAcademyCSharp1_PracticalExam\SevenlandNumbers\bin\Debug\SevenlandNumbers.exe.config
+E:\Engineering\First term\C# I\TestPreparation\HW_TestPreparation\TelerikAcademyCSharp1_PracticalExam\SevenlandNumbers\bin\Debug\SevenlandNumbers.exe
+E:\Engineering\First term\C# I\TestPreparation\HW_TestPreparation\TelerikAcademyCSharp1_PracticalExam\SevenlandNumbers\bin\Debug\SevenlandNumbers.pdb
+E:\Engineering\First term\C# I\TestPreparation\HW_TestPreparation\TelerikAcademyCSharp1_PracticalExam\SevenlandNumbers\obj\Debug\SevenlandNumbers.csprojResolveAssemblyReference.cache
+E:\Engineering\First term\C# I\TestPreparation\HW_TestPreparation\TelerikAcademyCSharp1_PracticalExam\SevenlandNumbers\obj\Debug\SevenlandNumbers.exe
+E:\Engineering\First term\C# I\TestPreparation\HW_TestPreparation\TelerikAcademyCSharp1_PracticalExam\SevenlandNumbers\obj\Debug\SevenlandNumbers.pdb
+E:\Engineering\Repos\Git\Personal-Projects\Telerik-CSharp-I-Exam\SevenlandNumbers\bin\Debug\SevenlandNumbers.exe.config
+E:\Engineering\Repos\Git\Personal-Projects\Telerik-CSharp-I-Exam\SevenlandNumbers\obj\Debug\SevenlandNumbers.exe
+E:\Engineering\Repos\Git\Personal-Projects\Telerik-CSharp-I-Exam\SevenlandNumbers\obj\Debug\SevenlandNumbers.pdb

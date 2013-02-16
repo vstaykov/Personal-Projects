@@ -1,0 +1,18 @@
+E:\Engineering\First term\C# I\TestPreparation\HW_TestPreparation\TelerikAcademyCSharp1_PracticalExam\A-nacci\bin\Debug\A-nacci.exe.config
+E:\Engineering\First term\C# I\TestPreparation\HW_TestPreparation\TelerikAcademyCSharp1_PracticalExam\A-nacci\bin\Debug\A-nacci.exe
+E:\Engineering\First term\C# I\TestPreparation\HW_TestPreparation\TelerikAcademyCSharp1_PracticalExam\A-nacci\bin\Debug\A-nacci.pdb
+E:\Engineering\First term\C# I\TestPreparation\HW_TestPreparation\TelerikAcademyCSharp1_PracticalExam\A-nacci\obj\Debug\A-nacci.csprojResolveAssemblyReference.cache
+E:\Engineering\First term\C# I\TestPreparation\HW_TestPreparation\TelerikAcademyCSharp1_PracticalExam\A-nacci\obj\Debug\A-nacci.exe
+E:\Engineering\First term\C# I\TestPreparation\HW_TestPreparation\TelerikAcademyCSharp1_PracticalExam\A-nacci\obj\Debug\A-nacci.pdb
+E:\Engineering\Repos\Git\Personal-Projects\Telerik-CSharp-I-Practical-Exam\A-nacci\bin\Debug\A-nacci.exe.config
+E:\Engineering\Repos\Git\Personal-Projects\Telerik-CSharp-I-Practical-Exam\A-nacci\obj\Debug\A-nacci.exe
+E:\Engineering\Repos\Git\Personal-Projects\Telerik-CSharp-I-Practical-Exam\A-nacci\obj\Debug\A-nacci.pdb
+E:\Engineering\Repos\Git\Personal-Projects\Telerik-CSharp-I-Exam\A-nacci\bin\Debug\A-nacci.exe.config
+E:\Engineering\Repos\Git\Personal-Projects\Telerik-CSharp-I-Exam\A-nacci\obj\Debug\A-nacci.exe
+E:\Engineering\Repos\Git\Personal-Projects\Telerik-CSharp-I-Exam\A-nacci\obj\Debug\A-nacci.pdb
+E:\Engineering\Repos\Git\Personal-Projects\Telerik-CSharp-I-Exam\A-nacci\bin\Debug\A-nacci.exe
+E:\Engineering\Repos\Git\Personal-Projects\Telerik-CSharp-I-Exam\A-nacci\bin\Debug\A-nacci.pdb
+E:\Engineering\Repos\Git\Personal-Projects\Telerik-CSharp-I-Exam\A-nacci\obj\Debug\A-nacci.csprojResolveAssemblyReference.cache
+E:\Engineering\Repos\Git\Personal-Projects\Telerik-CSharp-I-Exam -28Dec20012\A-nacci\bin\Debug\A-nacci.exe.config
+E:\Engineering\Repos\Git\Personal-Projects\Telerik-CSharp-I-Exam -28Dec20012\A-nacci\obj\Debug\A-nacci.exe
+E:\Engineering\Repos\Git\Personal-Projects\Telerik-CSharp-I-Exam -28Dec20012\A-nacci\obj\Debug\A-nacci.pdb

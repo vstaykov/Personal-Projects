@@ -1,0 +1,12 @@
+E:\Engineering\First term\C# I\TestPreparation\HW_TestPreparation\TelerikAcademyCSharp1_PracticalExam\ExcelColumns\bin\Debug\ExcelColumns.exe.config
+E:\Engineering\First term\C# I\TestPreparation\HW_TestPreparation\TelerikAcademyCSharp1_PracticalExam\ExcelColumns\bin\Debug\ExcelColumns.exe
+E:\Engineering\First term\C# I\TestPreparation\HW_TestPreparation\TelerikAcademyCSharp1_PracticalExam\ExcelColumns\bin\Debug\ExcelColumns.pdb
+E:\Engineering\First term\C# I\TestPreparation\HW_TestPreparation\TelerikAcademyCSharp1_PracticalExam\ExcelColumns\obj\Debug\ExcelColumns.exe
+E:\Engineering\First term\C# I\TestPreparation\HW_TestPreparation\TelerikAcademyCSharp1_PracticalExam\ExcelColumns\obj\Debug\ExcelColumns.pdb
+E:\Engineering\First term\C# I\TestPreparation\HW_TestPreparation\TelerikAcademyCSharp1_PracticalExam\ExcelColumns\obj\Debug\ExcelColumns.csprojResolveAssemblyReference.cache
+E:\Engineering\Repos\Git\Personal-Projects\Telerik-CSharp-I-Exam\ExcelColumns\bin\Debug\ExcelColumns.exe.config
+E:\Engineering\Repos\Git\Personal-Projects\Telerik-CSharp-I-Exam\ExcelColumns\obj\Debug\ExcelColumns.exe
+E:\Engineering\Repos\Git\Personal-Projects\Telerik-CSharp-I-Exam\ExcelColumns\obj\Debug\ExcelColumns.pdb
+E:\Engineering\Repos\Git\Personal-Projects\Telerik-CSharp-I-Exam\ExcelColumns\bin\Debug\ExcelColumns.exe
+E:\Engineering\Repos\Git\Personal-Projects\Telerik-CSharp-I-Exam\ExcelColumns\bin\Debug\ExcelColumns.pdb
+E:\Engineering\Repos\Git\Personal-Projects\Telerik-CSharp-I-Exam\ExcelColumns\obj\Debug\ExcelColumns.csprojResolveAssemblyReference.cache
