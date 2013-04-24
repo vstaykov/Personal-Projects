@@ -1,0 +1,6 @@
+E:\Engineering\First term\OOP\Teamwork-Bank-System\teamshrek\BankSystemTeamwork\BankSystem\bin\Debug\BankSystem.exe.config
+E:\Engineering\First term\OOP\Teamwork-Bank-System\teamshrek\BankSystemTeamwork\BankSystem\bin\Debug\BankSystem.exe
+E:\Engineering\First term\OOP\Teamwork-Bank-System\teamshrek\BankSystemTeamwork\BankSystem\bin\Debug\BankSystem.pdb
+E:\Engineering\First term\OOP\Teamwork-Bank-System\teamshrek\BankSystemTeamwork\BankSystem\obj\Debug\BankSystem.csprojResolveAssemblyReference.cache
+E:\Engineering\First term\OOP\Teamwork-Bank-System\teamshrek\BankSystemTeamwork\BankSystem\obj\Debug\BankSystem.exe
+E:\Engineering\First term\OOP\Teamwork-Bank-System\teamshrek\BankSystemTeamwork\BankSystem\obj\Debug\BankSystem.pdb

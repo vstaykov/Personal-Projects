@@ -1,0 +1,1 @@
+ADD: type: DepositAccount; accID: 558574; customerID: CC55475 on 20.3.2013 г. 15:11:08 ч.

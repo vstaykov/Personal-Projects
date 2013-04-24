@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BankSystem.AccountOperationsFileLogger" Collapsed="true">
+    <Position X="0.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AccountOperationsFileLogger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankSystem.AccountOpperationsEventArgs" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAEAAAAAAAAQEAAAAAAQA=</HashCode>
+      <FileName>AccountOpperationsEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankSystem.Address" Collapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCAAAEAAAAAAAAgMAAAICAAAAAIACgACAAoAECAgIBA=</HashCode>
+      <FileName>Address.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankSystem.ATM" Collapsed="true">
+    <Position X="5.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAEAAgAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ATM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankSystem.BankAccount" Collapsed="true">
+    <Position X="3" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAIAAACABAAAgAQEAAAICAAACAkBAAABAQAAAgAAAAI=</HashCode>
+      <FileName>BankAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankSystem.BankEngine">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="BankSystem.BankEngine.AccountOperationsEventHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>BankEngine.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="BankSystem.BankEngine.CustomerOperationsEventHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>BankEngine.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAADAAAIAAAAAQAAIgACAKBAAAAARAACAEAFAEA=</HashCode>
+      <FileName>BankEngine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankSystem.BankSystemMain" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>BankSystemMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankSystem.CorporateCustomer" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAIAAAAAAEAAAAAAAAIAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>CorporateCustomer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankSystem.Customer" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankSystem.CustomerOperationsEventArgs" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAEAAAAAAAAAEAAACAIQg=</HashCode>
+      <FileName>CustomerOperationsEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankSystem.CustomerOperationsFileLogger" Collapsed="true">
+    <Position X="2.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomerOperationsFileLogger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankSystem.DepositAccount" Collapsed="true">
+    <Position X="3" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAEAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>DepositAccount.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BankSystem.Employee" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAgAAAkAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankSystem.IndividualCustomer" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IndividualCustomer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankSystem.InsufficientFundsException" Collapsed="true">
+    <Position X="14.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAACIAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InsufficientFundsException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankSystem.LoanAccount" Collapsed="true">
+    <Position X="5.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAABAAAI=</HashCode>
+      <FileName>LoanAccount.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BankSystem.Location" Collapsed="true">
+    <Position X="6.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAAAAoAA=</HashCode>
+      <FileName>Location.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankSystem.LogToFileMechanism" Collapsed="true">
+    <Position X="1.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAEAAAABAAAAAA=</HashCode>
+      <FileName>LogToFileMechanism.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BankSystem.MortgageAccount" Collapsed="true">
+    <Position X="0.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAABAAAAAQAAEAAAAAAAAAAAAAAAAAAAAAABAAAI=</HashCode>
+      <FileName>MortgageAccount.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BankSystem.Office" Collapsed="true">
+    <Position X="7.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAgAAEAACIAEAACgAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Office.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankSystem.Person" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAABABAIAAAQSAAAAEAIAAAACAAAACAAAAAg=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankSystem.RealEstate" Collapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAAAAEAAAAAAAAAAIAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>RealEstate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="BankSystem.IDepositable" Collapsed="true">
+    <Position X="11" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>IDepositable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BankSystem.ILogMechanism" Collapsed="true">
+    <Position X="14.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ILogMechanism.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BankSystem.IWithdrawable" Collapsed="true">
+    <Position X="12.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IWithdrawable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="BankSystem.AccountCurrency" Collapsed="true">
+    <Position X="11" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAgAAAAAAAAQAAAAAAAAAAAAAAAEg=</HashCode>
+      <FileName>AccountCurrency.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BankSystem.AccountPeriod" Collapsed="true">
+    <Position X="12.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAASEAAAAAAAAAEAAEAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>AccountPeriod.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BankSystem.AccountType" Collapsed="true">
+    <Position X="14.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AccountType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BankSystem.Position" Collapsed="true">
+    <Position X="11" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAQAAAAAAAgAAgAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Position.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BankSystem.Priority" Collapsed="true">
+    <Position X="12.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAgAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Priority.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BankSystem.Sex" Collapsed="true">
+    <Position X="14.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Sex.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

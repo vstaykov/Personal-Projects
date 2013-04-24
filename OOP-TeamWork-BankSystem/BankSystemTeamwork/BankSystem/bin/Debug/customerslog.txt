@@ -1,0 +1,2 @@
+ADD: customerID: IC745547; name: Pesho Ivanov, PIN: 8709122554, comments: IndividualCustomer on 20.3.2013 г. 15:11:08 ч.
+ADD: customerID: CC55475; name: Pesho Ivanov, PIN: 8709122554, comments: CorporateCustomer on 20.3.2013 г. 15:11:08 ч.
