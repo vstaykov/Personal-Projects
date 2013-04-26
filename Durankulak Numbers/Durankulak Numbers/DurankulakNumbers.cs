@@ -6,6 +6,9 @@ class DurankulakNumbers
 {
     static void Main()
     {
+
+        Console.WriteLine("This is a test");
+
         string inputNumber = Console.ReadLine();
 
         //Fill an array with the letter representation of each number in [1,168]
