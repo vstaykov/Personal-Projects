@@ -1,4 +1,3 @@
 Personal-Projects
 =================
-
-This repository contains some of my personal development projects.
+This repository contains some of my personal development projects!
